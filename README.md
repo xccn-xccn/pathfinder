@@ -1,2 +1,2 @@
 # pathfinder
-A maze solver
+A maze solver. The code is in test.py
